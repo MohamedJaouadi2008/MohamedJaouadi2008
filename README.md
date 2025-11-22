@@ -22,8 +22,7 @@ I'm a passionate software developer with a strong background in full-stack web d
 
 ### Languages
 ```
-JavaScript (Node.js) | Python | TypeScript | HTML/CSS
-```
+Python | JavaScript (Node.js) | TypeScript | HTML | CSS | PHP | SQL | Java```
 
 ### Frontend
 ```
@@ -42,8 +41,15 @@ PyTorch | TensorFlow | Hugging Face
 
 ### Tools & Platforms
 ```
-Git/GitHub | VS Code | Cursor IDE | Lovable AI | Perplexity AI
-```
+Git/GitHub | VS Code | Cursor IDE | Lovable AI | Perplexity AI | Replit```
+
+## 😎 Coding Vibe
+
+✨ **I'm a Vibe Coding Developer** ✨
+
+I believe in writing code that's not just functional but *feels* right. Whether it's building with Cursor's AI-powered workflows, creating beautiful interfaces in Lovable, experimenting in Replit, or bringing ideas to life with full-stack solutions—every line of code has intentionality and flow.
+
+I code with passion, creativity, and a sprinkle of artistic flair. My philosophy: **Code should be efficient, elegant, and enjoyable to write.**
 
 ---
 
@@ -82,11 +88,10 @@ Git/GitHub | VS Code | Cursor IDE | Lovable AI | Perplexity AI
 
 ## 🤝 Let's Connect
 
-- 📧 **Email**: [Contact me](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/mohamedjaouadi](https://linkedin.com)
+- 📧 **Email**: [mohamedjaouadiacc@gmail.com](mailto:mohamedjaouadiacc@gmail.com)
+- 💼 **LinkedIn**: [www.linkedin.com/in/mohamed-jaouaditn](https://www.linkedin.com/in/mohamed-jaouaditn)
 - 🐙 **GitHub**: [github.com/MohamedJaouadi2008](https://github.com/MohamedJaouadi2008)
-- 💬 **Discord**: Available for collaboration
-
+- 💬 **Discord**: [Available for collaboration](https://www.discord.com/users/1021146892773634059)
 ---
 
 ## 💡 Open to
