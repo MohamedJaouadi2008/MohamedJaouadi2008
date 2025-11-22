@@ -56,11 +56,11 @@ Git/GitHub | VS Code | Cursor IDE | Lovable AI | Perplexity AI | Replit```
 
 ## Backend & Databases
 
-<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/> <img src='https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white' alt='Express'/> <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' alt='Supabase'/> <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black' alt='Firebase'/> <img src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/> <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' alt='Supabase'/> <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black' alt='Firebase'/> <img src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
 
 ## AI & Machine Learning
 
-<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='PyTorch'/> <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white' alt='TensorFlow'/> <img src='https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black' alt='Hugging Face'/>
+<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='PyTorch'/> <img src='https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black' alt='Hugging Face'/>
 
 ## Tools & Platforms
 
