@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Mohamed Jaouadi
+# 👋 Hi, I'm Mohamed Jaouadi aka Miffo
 
-**Full-Stack Developer | AI & E-Commerce Specialist | Open to Opportunities**
+** Future Full-Stack Developer | AI & E-Commerce Specialist | Open to Opportunities**
 
-Based in Tunisia | Building digital solutions that matter
+Based in Tunisia
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a strong background in full-stack web development, artificial intelligence, and e-commerce platforms. I specialize in creating scalable, user-centric applications that solve real-world problems.
+17M
+I am passionate about web development, artificial intelligence, and e-commerce platforms. I specialize in creating scalable, user-centric applications that solve real-world problems.
 
 ### 💼 What I Do
 - **Full-Stack Development**: Building complete web applications from frontend to backend
@@ -80,12 +81,6 @@ I code with passion, creativity, and a sprinkle of artistic flair. My philosophy
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedJaouadi2008&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 **Email**: [mohamedjaouadiacc@gmail.com](mailto:mohamedjaouadiacc@gmail.com)
@@ -96,8 +91,9 @@ I code with passion, creativity, and a sprinkle of artistic flair. My philosophy
 
 ## 💡 Open to
 
-✨ Freelance projects | Collaborations | Mentoring | Internships | Full-time positions
+✨ Freelance projects | Collaborations | Mentoring | Internships
 
 ---
+## 
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
+**"The only true wisdom is in knowing you know nothing** 
