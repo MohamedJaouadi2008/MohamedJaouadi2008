@@ -68,7 +68,7 @@ Git/GitHub | VS Code | Cursor IDE | Lovable AI | Perplexity AI | Replit```
 
 ---
 
-## 😎 Coding Vibe
+## 😎  Vibe Coding
 
 ✨ **I'm a Vibe Coding Developer** ✨
 
